@@ -1,0 +1,27 @@
+<idea-plugin>
+  <id>com.your.company.unique.plugin.id</id>
+  <name>Santix Light</name>
+  <version>1.0</version>
+  <vendor email="support@santix.com" url="http://www.santix.com">Santix</vendor>
+
+  <description>A custom light theme of mine because I don't like the rest in the marketplace</description>
+
+  <change-notes>This is the initial release of the theme.</change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="5ebb9ee6-caad-4bf8-a30b-86db30a7c7c7" path="/santix_light.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
