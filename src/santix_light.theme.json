@@ -7,8 +7,8 @@
     "foreground": "#2d2d32",
     "background": "#f5f5f5",
     "accent": "#ee4747",
-    "other": "#FC4741",
-    "accentLighter": "#fcd3d3",
+    "accentLighter": "#d4d2d2",
+    "accentEvenLighter": "#efeaea",
     "button": "#e6e6e6",
     "pressed": "#d7d7d7",
 
@@ -29,9 +29,9 @@
       "selectionInactiveBackground": "accentLighter",
       "selectionBackgroundInactive": "accentLighter",
 
-      "lightSelectionBackground": "accent",
+      "lightSelectionBackground": "accentEvenLighter",
       "lightSelectionForeground": "#F9FCFF",
-      "lightSelectionInactiveBackground": "accentLighter",
+      "lightSelectionInactiveBackground": "accentEvenLighter",
       "lightSelectionInactiveForeground": "background",
 
       "disabledBackground": "background",
@@ -142,6 +142,29 @@
       "matchForeground": "accent",
       "selectionBackground": "accentLighter",
       "selectionInactiveBackground": "#e0e0e0"
+    }
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.Yellow": "#f3cc57",
+
+      "Objects.Yellow": "#f3cc57",
+
+      "Checkbox.Background.Selected": "#ee4747",
+      "Checkbox.Background.Default": "#ee4747",
+      "Checkbox.Background.Disabled": "#d4d2d2",
+
+      "Checkbox.Foreground.Selected": "#ee4747",
+      "Checkbox.Foreground.Disabled": "#d4d2d2",
+
+      "Checkbox.Border.Default": "#ee4747",
+      "Checkbox.Border.Selected": "#ee4747",
+      "Checkbox.Border.Disabled": "#d4d2d2",
+
+      "Checkbox.Focus.Thin.Default": "#ee4747",
+      "Checkbox.Focus.Thin.Selected": "#ee4747",
+      "Checkbox.Focus.Wide": "#d4d2d2"
     }
   }
 }
