@@ -147,10 +147,6 @@
 
   "icons": {
     "ColorPalette": {
-      "Actions.Yellow": "#f3cc57",
-
-      "Objects.Yellow": "#f3cc57",
-
       "Checkbox.Background.Selected": "#ee4747",
       "Checkbox.Background.Default": "#ee4747",
       "Checkbox.Background.Disabled": "#d4d2d2",
