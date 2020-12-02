@@ -140,7 +140,7 @@
     },
 
     "ProgressBar": {
-      "trackColor": "#D1D1D1",
+      "trackColor": "border",
       "progressColor": "accent",
       "indeterminateStartColor": "accentLighter",
       "passedColor": "greener",
