@@ -133,8 +133,8 @@
 
     "Notification": {
       "errorForeground": "#DFDFE0",
-      "errorBackground": "#843937",
-      "errorBorderColor": "#982B31",
+      "errorBackground": "#99325b",
+      "errorBorderColor": "#99325b",
 
       "MoreButton.innerBorderColor": "border"
     },
