@@ -17,6 +17,9 @@
     "lightBorder": "#d9d9d9",
     "windowsPopupBorder": "#adadad",
 
+    "whiter": "#F9FCFF",
+    "greener": "#3AA87B",
+
     "panel": "#F2F2F2"
   },
   "ui": {
@@ -30,7 +33,7 @@
       "selectionBackgroundInactive": "accentLighter",
 
       "lightSelectionBackground": "accentEvenLighter",
-      "lightSelectionForeground": "#F9FCFF",
+      "lightSelectionForeground": "whiter",
       "lightSelectionInactiveBackground": "accentEvenLighter",
       "lightSelectionInactiveForeground": "background",
 
@@ -46,7 +49,11 @@
 
       "modifiedItemForeground": "accent",
 
-      "focusColor": "accentLighter"
+      "underlineColor": "accent",
+
+      "focusColor": "accentLighter",
+
+      "focusedBorderColor": "accentLighter"
     },
 
     "ActionButton": {
@@ -86,29 +93,43 @@
 
     "ComboBox": {
       "ArrowButton": {
-        "iconColor": "#DBDBDB",
-        "background": "accent"
+        "iconColor": "pressed",
+        "background": "background",
+        "disabledIconColor": "button",
+        "nonEditableBackground": "background"
       },
-      "background": "#FFFFFF",
-      "nonEditableBackground": "#FFFFFF",
-      "ArrowButton.background": "#fafafa"
+      "background": "whiter",
+      "nonEditableBackground": "whiter",
+      "modifiedItemForeground": "accent"
     },
 
-    "ComboBoxButton.background": "#FFFFFF",
+    "ComboBoxButton.background": "whiter",
 
-    "ComboPopup.border": "1,1,1,1,17181a",
+    "Plugins": {
+      "tagBackground": "accentLighter",
+      "Tab.selectedBackground": "accentLighter",
+      "Tab.hoverBackground": "button",
+      "Button": {
+        "installForeground": "greener",
+        "installBorderColor": "greener",
+        "installFillBackground": "greener"
+      }
+    },
 
-    "DefaultTabs.background": "panel",
+    "TextField.background": "whiter",
+    "Plugins.SearchField.background": "whiter",
 
-    "EditorTabs.underlinedTabBackground": "#ffffff",
     "Editor.shortcutForeground": "accent",
 
     "DebuggerPopup.borderColor": "border",
 
     "DefaultTabs": {
       "inactiveUnderlineColor": "accentLighter",
-      "underlineColor": "accent"
+      "underlineColor": "accent",
+      "background": "panel"
     },
+
+    "EditorTabs.underlinedTabBackground": "whiter",
 
     "Notification": {
       "errorForeground": "#DFDFE0",
@@ -122,7 +143,7 @@
       "trackColor": "#D1D1D1",
       "progressColor": "accent",
       "indeterminateStartColor": "accentLighter",
-      "passedColor": "#3AA87B",
+      "passedColor": "greener",
       "passedEndColor": "#368E68"
     },
 
@@ -135,7 +156,7 @@
     },
 
     "ToggleButton": {
-      "onBackground": "#3AA87B"
+      "onBackground": "greener"
     },
 
     "CompletionPopup": {
