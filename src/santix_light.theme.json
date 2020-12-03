@@ -173,13 +173,11 @@
 
   "icons": {
     "ColorPalette": {
-      "Actions.Grey": "#696d78",
       "Actions.Red": "#e0516b",
       "Actions.Blue": "#348def",
       "Actions.Green": "#3AA87B",
       "Actions.Yellow": "#e3b610",
 
-      "Objects.Grey": "#858994",
       "Objects.RedStatus": "#fd7171",
       "Objects.Red": "#dd0b0b",
       "Objects.Pink": "#f070a5",
