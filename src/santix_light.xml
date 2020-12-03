@@ -7,7 +7,7 @@
         <property name="originalScheme">_@user_santix-light</property>
     </metaInfo>
     <colors>
-        <option name="CARET_COLOR" value="ee4747" />
+        <option name="CARET_COLOR" value="f65454" />
         <option name="CARET_ROW_COLOR" value="f8f5e3" />
         <option name="CONSOLE_BACKGROUND_KEY" value="f7f7f7" />
         <option name="DOC_COMMENT_LINK" value="45beac" />
@@ -78,7 +78,7 @@
         </option>
         <option name="CONSOLE_RED_BRIGHT_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="ee4747" />
+                <option name="FOREGROUND" value="f65454" />
             </value>
         </option>
         <option name="CONSOLE_RED_OUTPUT">
@@ -109,8 +109,8 @@
         </option>
         <option name="CTRL_CLICKABLE">
             <value>
-                <option name="FOREGROUND" value="ee4747" />
-                <option name="EFFECT_COLOR" value="ee4747" />
+                <option name="FOREGROUND" value="f65454" />
+                <option name="EFFECT_COLOR" value="f65454" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -204,7 +204,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ee4747" />
+                <option name="FOREGROUND" value="f65454" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -216,12 +216,12 @@
         </option>
         <option name="DEFAULT_METADATA">
             <value>
-                <option name="FOREGROUND" value="ee4747" />
+                <option name="FOREGROUND" value="f65454" />
             </value>
         </option>
         <option name="DEFAULT_NUMBER">
             <value>
-                <option name="FOREGROUND" value="ee4747" />
+                <option name="FOREGROUND" value="f65454" />
             </value>
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
@@ -270,8 +270,8 @@
         </option>
         <option name="ERRORS_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="ee4747" />
-                <option name="ERROR_STRIPE_COLOR" value="ee4747" />
+                <option name="EFFECT_COLOR" value="f65454" />
+                <option name="ERROR_STRIPE_COLOR" value="f65454" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -285,8 +285,8 @@
         </option>
         <option name="HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ee4747" />
-                <option name="EFFECT_COLOR" value="ee4747" />
+                <option name="FOREGROUND" value="f65454" />
+                <option name="EFFECT_COLOR" value="f65454" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -333,7 +333,7 @@
         </option>
         <option name="LOG_ERROR_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="ee4747" />
+                <option name="FOREGROUND" value="f65454" />
             </value>
         </option>
         <option name="LOG_EXPIRED_ENTRY">
@@ -448,8 +448,8 @@
         <option name="WRONG_REFERENCES_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="6e6e6e" />
-                <option name="EFFECT_COLOR" value="ee4747" />
-                <option name="ERROR_STRIPE_COLOR" value="ee4747" />
+                <option name="EFFECT_COLOR" value="f65454" />
+                <option name="ERROR_STRIPE_COLOR" value="f65454" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
