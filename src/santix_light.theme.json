@@ -9,13 +9,12 @@
     "accent": "#ee4747",
     "accentLighter": "#d4d2d2",
     "accentEvenLighter": "#efeaea",
+
     "button": "#e6e6e6",
     "pressed": "#d7d7d7",
 
     "border": "#D1D1D1",
     "componentBorder": "#C4C4C4",
-    "lightBorder": "#d9d9d9",
-    "windowsPopupBorder": "#adadad",
 
     "whiter": "#F9FCFF",
     "greener": "#3AA87B",
@@ -105,6 +104,10 @@
 
     "ComboBoxButton.background": "whiter",
 
+    "DragAndDrop": {
+      "areaBackground": "#ee474722"
+    },
+
     "Plugins": {
       "tagBackground": "accentLighter",
       "Tab.selectedBackground": "accentLighter",
@@ -113,7 +116,8 @@
         "installForeground": "greener",
         "installBorderColor": "greener",
         "installFillBackground": "greener"
-      }
+      },
+      "hoverBackground": "accentEvenLighter"
     },
 
     "TextField.background": "whiter",
@@ -172,7 +176,7 @@
       "Checkbox.Background.Default": "#ee4747",
       "Checkbox.Background.Disabled": "#d4d2d2",
 
-      "Checkbox.Foreground.Selected": "#ee4747",
+      "Checkbox.Foreground.Selected": "#f0f0f0",
       "Checkbox.Foreground.Disabled": "#d4d2d2",
 
       "Checkbox.Border.Default": "#ee4747",
