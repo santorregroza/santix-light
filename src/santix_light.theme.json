@@ -71,9 +71,9 @@
       "default": {
         "foreground": "background",
         "startBackground": "accent",
-        "endBackground": "#d63f3f",
-        "startBorderColor": "#d44040",
-        "endBorderColor": "#c83e3e",
+        "endBackground": "#e53838",
+        "startBorderColor": "#d73131",
+        "endBorderColor": "#cd2b2b",
         "shadowColor": "#A6A6A600",
         "focusedBorderColor": "secondary"
       }
@@ -191,19 +191,19 @@
       "Objects.BlackText": "#3d4041",
 
       "Checkbox.Background.Default": "#d4d2d2",
-      "Checkbox.Background.Selected": "#f65454",
+      "Checkbox.Background.Selected": "#ff6e6e",
       "Checkbox.Background.Disabled": "#d4d2d2",
 
-      "Checkbox.Foreground.Selected": "#f0f0f0",
+      "Checkbox.Foreground.Selected": "#fdfdfd",
       "Checkbox.Foreground.Disabled": "#d4d2d2",
 
       "Checkbox.Border.Default": "#d4d2d2",
-      "Checkbox.Border.Selected": "#f65454",
+      "Checkbox.Border.Selected": "#ff6e6e",
       "Checkbox.Border.Disabled": "#d4d2d2",
 
-      "Checkbox.Focus.Thin.Default": "#fdebeb",
-      "Checkbox.Focus.Thin.Selected": "#fccece",
-      "Checkbox.Focus.Wide": "#ffa9a9"
+      "Checkbox.Focus.Thin.Default": "#d4d2d2",
+      "Checkbox.Focus.Thin.Selected": "#ffa9a9",
+      "Checkbox.Focus.Wide": "#ff6e6e"
     }
   }
 }
