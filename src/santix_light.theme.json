@@ -192,7 +192,7 @@
 
       "Checkbox.Background.Default": "#d4d2d2",
       "Checkbox.Background.Selected": "#ff6e6e",
-      "Checkbox.Background.Disabled": "#d4d2d2",
+      "Checkbox.Background.Disabled": "#f0f0f0",
 
       "Checkbox.Foreground.Selected": "#fdfdfd",
       "Checkbox.Foreground.Disabled": "#d4d2d2",
@@ -203,7 +203,7 @@
 
       "Checkbox.Focus.Thin.Default": "#d4d2d2",
       "Checkbox.Focus.Thin.Selected": "#ffa9a9",
-      "Checkbox.Focus.Wide": "#ff6e6e"
+      "Checkbox.Focus.Wide": "#d4d2d2"
     }
   }
 }
